@@ -1,6 +1,7 @@
 {
     "name": "php-laravel-pack",
     "displayName": "php-laravel-pack",
+    "publisher": "franccesco",
     "description": "just an another extension bundle",
     "version": "0.0.1",
     "icon": "php-laravel.png",
