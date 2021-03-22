@@ -3,6 +3,7 @@
     "displayName": "php-laravel-pack",
     "publisher": "franccesco",
     "description": "just an another extension bundle",
+    "repository": "https://github.com/Tiesco789/php-laravel-pack",
     "version": "0.0.1",
     "icon": "php-laravel.png",
     "engines": {
