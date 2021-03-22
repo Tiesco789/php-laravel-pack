@@ -11,7 +11,7 @@
 ```json
 "intelephense.diagnostics.undefinedTypes": false,
 "files.associations": { 
-	  "*.module": "php" 
+	"*.module": "php" 
 },
 "blade.format.enable": true,
 "intelephense.diagnostics.undefinedTypes": false,
