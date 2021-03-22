@@ -11,23 +11,24 @@
 ```json
 "intelephense.diagnostics.undefinedTypes": false,
 "files.associations": { 
-	"*.module": "php" 
+	  "*.module": "php" 
 },
 "blade.format.enable": true,
-    "intelephense.diagnostics.undefinedTypes": false,
-    "[php]": {
-      "editor.formatOnSave": false,
-      "editor.formatOnPaste": true,
-      "editor.formatOnType": true,
-      "editor.tabSize": 4,
-      "editor.defaultFormatter": "kokororin.vscode-phpfmt"
-    },
-    "[blade]": {
-      "editor.autoClosingBrackets": "always",
-      "editor.formatOnSave": true,
-      "editor.formatOnPaste": true,
-      "editor.formatOnType": true,
-      "editor.tabSize": 4,
-      "editor.defaultFormatter": "onecentlin.laravel-blade"
-    },
+"intelephense.diagnostics.undefinedTypes": false,
+"[php]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+},
+"[blade]": {
+    "editor.autoClosingBrackets": "always",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "onecentlin.laravel-blade"
+},
 ```
+4. Install this pack
