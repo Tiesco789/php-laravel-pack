@@ -9,7 +9,6 @@
 3. Open your settings as Json: `CTRL + SHIFT + P > Preferences: Open Settings (json)` and paste the following configs
 
 ```json
-"intelephense.diagnostics.undefinedTypes": false,
 "files.associations": { 
 	"*.module": "php" 
 },

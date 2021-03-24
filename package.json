@@ -4,7 +4,7 @@
     "publisher": "franccesco",
     "description": "just an another extension bundle",
     "repository": "https://github.com/Tiesco789/php-laravel-pack",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "icon": "php-laravel.png",
     "engines": {
         "vscode": "^1.54.0"
